@@ -1,0 +1,18 @@
+{
+    "params":
+    {
+        "local_server" : "True",
+        "local_uri" : "mysql://root:@localhost/codingthunder",
+        "prod_uri" : "mysql://root:@localhost/codingthunder",
+        "gh_url" : "https://github.com/codingthunder",
+        "fb_url" : "https://facebook.com/codingthunder",
+        "tw_url" : "https://twitter.com/codingthunder",
+        "blog_name" : "Coding Thunder",
+        "tag_line" : "Blog for all programmers",
+        "no_of_posts":2,
+        "name" : "akanksha",
+        "pass" : "flask",
+        "upload_location" : "C:\\flask_learn\\static\\img"
+
+    }
+}
